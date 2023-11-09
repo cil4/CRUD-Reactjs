@@ -1,0 +1,41 @@
+
+.form_container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: cadetblue;
+    margin-bottom: 2%;
+    margin-top: 3%;
+    padding-bottom: 1.5em;
+    background-color: rgba(173, 216, 230, 0.53);
+    border-radius: 10px;
+    box-shadow: 0 1px 3px -2px black;
+}
+.edit_h2{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    color: #282a2c;
+    font-weight: 500;
+    align-content: center;
+}
+.btn-reg{
+    padding: .9em;
+            background-color: #F29334;
+            border: 2px solid #FFFFFF;
+            border-radius: 10px;
+            color: #ffffff;
+            margin:0 23%;
+            font-size: .9em;
+    }
+    
+    .btn-canc{
+        padding: 0.5em;
+            background-color: #FFFFFF;
+            border-radius: 10px;
+            color: #F29334;
+            padding: 0.5em;
+            text-decoration: none;
+            border: 2px solid #F29334;
+    
+    }

@@ -1,0 +1,66 @@
+.formCreacion{
+    display: flex;
+justify-content: center;
+
+}
+.form-title{
+    padding: 15px;
+    color: #282a2c;
+    font-weight: 500;
+    align-self: center;
+    margin-bottom: 4%;
+}
+.formCreacion_{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1.5em;
+    width: 30vw;
+}
+.formCreacion_caja{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 2%;
+    margin-top: 3%;
+    padding-bottom: 1.5em;
+    background-color: rgba(173, 216, 230, 0.53);
+    border-radius: 10px;
+    box-shadow: 0 1px 3px -2px black;
+
+
+}
+.form-label{
+    align-self: center;
+}
+
+.form-control{
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 1em 0;
+    align-content: center;
+    text-indent: 1em;
+    font-size: 0.9em;
+}
+
+.btn-reg{
+padding: .9em;
+        background-color: #F29334;
+        border: 2px solid #FFFFFF;
+        border-radius: 10px;
+        color: #ffffff;
+        margin:0 23%;
+        font-size: .9em;
+}
+
+.btn-canc{
+    padding: 0.5em;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+        color: #F29334;
+        padding: 0.5em;
+        text-decoration: none;
+        border: 2px solid #F29334;
+
+}

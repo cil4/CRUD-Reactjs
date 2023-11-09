@@ -1,0 +1,24 @@
+
+
+.bio-bank{
+    display: flex;
+    flex-direction: column;
+    padding: 0 0.5em;
+    text-align: left;
+    margin-top: 2%;
+
+}
+p{
+    margin: 0.5em 0;
+}
+.btn-inst{
+    color: #ffffff;
+    background-color: #297acb;
+    padding: 0.8em;
+    border: #ffffff;
+    border-radius: 10px;
+    font-size: .9em;
+    font-weight: 500;
+    align-self: center;
+}
+
